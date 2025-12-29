@@ -1,4 +1,4 @@
-# Assignment-4-Global-superstore-Sales-Power-BI
+# Assignment-4
 
 # Retail Sales Dashboard (Power BI)
 

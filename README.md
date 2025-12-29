@@ -17,7 +17,7 @@ The dashboard provides insights into:
 - Top 10 customers by sales
 
 ## Files in this Repository
-- Globalsuperstore_Sales_Dashboard.pbix – Power BI report file
+- Globalsuperstore (Report).pbix – Power BI report file
 - Globalsuperstore_Sales_Dashboard.pdf – Exported dashboard view
 - Globalsuperstore dataset.xlsx- Dataset Excel File
 
